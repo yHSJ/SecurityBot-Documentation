@@ -10,7 +10,7 @@ Supplemental terms and conditions or documents that may be posted on the website
 
 We have the right to suspend or terminate your account and refuse any and all current or future use of the bot (or any portion thereof) at our own discretion. 
 
-## Inteded Age
+## Intended Age
 
 The bot is intended for users who are at least 13 years of age. All users who are minors in the jurisdiction in which they reside (generally under the age of 18) must have the permission of, and be directly supervised by, their parent or guardian to use the bot. If you are a minor, you must have your parent or guardian read and agree to these Terms of Service prior to you using the bot.
 
@@ -51,6 +51,6 @@ In order to resolve a complaint regarding the bot or to receive further informat
 
 ### Last Updated
 
-June 6th, 2022 at 5:30 PM ET
+  June 3th, 2022 at 10:07 AM ET
 
 
