@@ -21,6 +21,7 @@ The Data is stored in a PostgreSQL database. The database is secured to prevent 
 ## Usage of Data
 
 The Data stored above is used to ensure the complete functionality of the bot including, but not limited to:
+
 	- Saving Discord server settings
 	- Protecting a Discord server from malicious attacks
 
