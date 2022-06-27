@@ -1,6 +1,6 @@
 # SecurityBot Default Domains
 
-The SecurityBot link filter feature gives users the option to "Allow Default Links". That is a short list of verified, safe websites that are necessary for NFT communities. The complete list with a short description of each site is available below. Domains may be added or removed at any point. To have your domain added, reach out to the SecurityBot support team in the official [SecurityBot Support Discord server](https://discord.gg/JWy9bSqpYJ).
+The SecurityBot link filter feature gives users the option to "Allow Default Links". That is a short list of verified, safe websites that are necessary for NFT communities. The complete list with a short description of each site is available below. Domains may be added or removed at any point. To apply for your domain to be added, reach out to the SecurityBot support team in the official [SecurityBot Support Discord server](https://discord.gg/JWy9bSqpYJ).
 
 
 - JPG Store
