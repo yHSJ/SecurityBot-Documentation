@@ -79,6 +79,12 @@ Cardanoscan is a Cardano blockchain explorer with transaction information
 
 _Allowed Domains:_ cardanoscan.io
 
+**Mutant NFT**
+
+Mutant NFT is a Cardano NFT raffle platform, allowing users to create raffles or buy raffle tickets
+
+_Allowed Domains:_ labs.mutant-nft.com
+
 
 **Tenor**
 
